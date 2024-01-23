@@ -1,0 +1,15 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+h1, .store {
+  margin: 60px 0px 60px 0px;
+}
+.question {
+  font-weight: bold;
+}
+.answer {
+  padding: 0px 40px;
+}
